@@ -17,6 +17,11 @@ function displayMoto(motorbikes) {
         motoConstr.innerText = "Produced by: " + moto.constructor;
         motoDiv.appendChild(motoConstr);
 
+        const motoImage = document.createElement('img');
+        motoImage.classList.add('moto-image')
+        motoImage.src = moto.image;
+        motoDiv.appendChild(motoImage);
+
         const motoCil = document.createElement('div');
         motoCil.innerText = "CC: " + moto.cilinder;
         motoDiv.appendChild(motoCil);

@@ -8,6 +8,7 @@
       "available": true,
       "colors": ["blue", "grey", "black", "white"],
       "class": ["scooter"],
+      "image": "https://www.honda.it/content/dam/central/motorcycles/scooters/forza350_2021/Overview/Mosaic/Forza-350-sense-of-sportiness_mobile.jpg/jcr:content/renditions/m_r.jpg",
       "id": "1"
     },
     {
@@ -19,6 +20,7 @@
       "available": true,
       "colors": ["black", "grey"],
       "class": ["scooter"],
+      "image": "https://www.controcampus.it/wp-content/uploads/2020/07/Foto-Yamaha-Xmax-300-Tech-Max-2020-825x495.jpg",
       "id": "2"
     },
     {
@@ -30,6 +32,7 @@
         "available": true,
         "colors": ["blue", "grey", "red", "white"],
         "class": ["sport"],
+        "image": "https://imgd.aeplcdn.com/642x361/n/cw/ec/51652/honda-hornet-right-front-three-quarter1.jpeg?wm=2&q=75",
         "id": "3"
       },
       {
@@ -41,6 +44,7 @@
         "available": true,
         "colors": ["black", "brown", "lightblue"],
         "class": ["naked", "cruiser"],
+        "image": "https://img1.stcrm.it/images/24190903/1000x/royal-enfield-himalayan-400-2021-01.jpg",
         "id": "4"
       },
       {
@@ -52,6 +56,7 @@
         "available": true,
         "colors": ["black", "grey", "white", "orange", "green", "blue"],
         "class": ["scooter"],
+        "image": "https://wide.piaggiogroup.com/articles/products/tutte-le-novita-vespa-2020-del-gruppo-piaggio/g5/thumbs/4.jpg",
         "id": "5"
       },
       {
@@ -63,6 +68,7 @@
         "available": false,
         "colors": ["black", "grey"],
         "class": ["naked"],
+        "image": "https://www.motorcyclespecs.co.za/Gallery%20%20A/Moto%20Guzzi%20Nevada%20750%20Club%2000%20%202.jpg",
         "id": "6"
       },
       {
@@ -74,6 +80,7 @@
         "available": false,
         "colors": ["black", "brown", "white", "grey"],
         "class": ["sport"],
+        "image": "https://www.motorcyclespecifications.com/wp-content/uploads/2019/03/Suzuki_gsf400_94_01.jpg",
         "id": "7"
       },
       {
@@ -85,6 +92,7 @@
         "available": false,
         "colors": ["black", "grey", "white", "orange"],
         "class": ["scooter"],
+        "image": "https://www.motodagri.com/wp-content/uploads/2015/02/HONDA-PS-125.jpg",
         "id": "8"
       }
   ]
