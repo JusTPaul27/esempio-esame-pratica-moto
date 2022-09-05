@@ -79,8 +79,7 @@ function displayMoto(motorbikes) {
             motoClassList.appendChild(typeLi); 
         }
 
-        motoDiv.appendChild(motoClassList);
-        
+        motoDiv.appendChild(motoClassList);       
         container.appendChild(motoDiv)
     }
 }
